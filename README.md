@@ -1,5 +1,2 @@
-##Introduction
-this is for the purpose of assignment
-
-##Project submission
-IMS566
+##Introduction This is for the purpose of assignment submission
+##IMS566
